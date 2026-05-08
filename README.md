@@ -1,28 +1,30 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Sakthivel+V;Data+Architect+%40+ExamRoom;Building+Calabi+%E2%80%94+Unified+Data+Platform;Airflow+%7C+dbt+%7C+Superset+%7C+OpenMetadata" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Sakthivel+Vijayamoorti;Data+Architect+%40+ExamRoom.AI+Corp;10%2B+yrs+in+Data+Engineering;Airflow+%7C+dbt+%7C+Airbyte+%7C+Superset+%7C+AWS+EKS;Building+%40calabi-ai+%E2%80%94+Open+Source+Data+Platform" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://github.com/calabi-ai/calabi-ce">
-    <img src="https://img.shields.io/badge/Calabi_CE-Open_Source-7C3AED?style=for-the-badge&logo=docker&logoColor=white" alt="Calabi CE" />
+    <img src="https://img.shields.io/badge/Calabi_CE-Open_Source-7C3AED?style=for-the-badge&logo=docker&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sakthivel-v">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sakthivel-vijayamoorti">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=vs-sakthi&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vs-sakthi&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-## What I build
+## About me
 
-I design and operate **data platforms** — from ingestion pipelines to AI-powered analytics — at [ExamRoom](https://examroom.ai), the credentialing and assessment platform used by healthcare licensing bodies across North America.
+Data Architect and Senior Data Engineer at **[ExamRoom.AI Corp](https://examroom.ai)** — the credentialing and assessment platform used by healthcare licensing bodies across North America.
 
-**Currently shipping:**
+I design, build, and operate the full data stack: from ingestion pipelines and cloud infrastructure to analytics platforms and AI-powered intelligence. Over the years I've worked across the entire spectrum of data engineering — ETL, cloud data warehouses, real-time pipelines, data cataloguing, BI, ML platforms, and cost-efficient infrastructure on AWS EKS.
 
+**Currently building:**
 - **[Calabi CE](https://github.com/calabi-ai/calabi-ce)** — open-source unified data platform. One `docker compose up` replaces OpenMetadata + Superset + Great Expectations. 4 commercial tiers, Helm-deployable, ELv2 licensed.
-- **DE Automation Suite** — 10 production Airflow DAGs delivering daily intelligence briefs: Airbyte audit, dbt lineage reports, credential strategy analysis, psychometrician summaries — all with Calabi-branded HTML emails via O365.
-- **Asgard Item Banking Console** — ExamIQ dashboard tracking 500K+ assessment items across programs, topics, and exam forms with discrimination/exposure quality flags.
+- **DE Automation Suite** — 10 production Airflow 3 DAGs delivering daily intelligence: Airbyte sync audit, dbt lineage reports, credential strategy briefs, psychometrician summaries — Calabi-branded HTML via O365.
+- **Asgard Item Banking Console** — ExamIQ analytics dashboard tracking 500K+ assessment items across programs, topics, and exam forms.
+- **Calabi AI Orchestrator** — FastAPI + Ollama (Gemma 4, Qwen2.5) + MLflow — live triage, pipeline watch, platform pulse agents running on AWS EKS GPU nodes.
 
 ---
 
@@ -33,6 +35,7 @@ I design and operate **data platforms** — from ingestion pipelines to AI-power
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow_3-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white)
+![IBM DataStage](https://img.shields.io/badge/IBM_DataStage-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
 **Analytics & Catalog**
 
@@ -40,7 +43,7 @@ I design and operate **data platforms** — from ingestion pipelines to AI-power
 ![OpenMetadata](https://img.shields.io/badge/OpenMetadata-7C3AED?style=flat-square&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
 
-**Infrastructure**
+**Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -48,11 +51,12 @@ I design and operate **data platforms** — from ingestion pipelines to AI-power
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-**Databases**
+**Databases & Warehouses**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Amazon Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
 
 **ML & AI**
 
@@ -61,10 +65,11 @@ I design and operate **data platforms** — from ingestion pipelines to AI-power
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 
-**Monitoring**
+**Monitoring & Observability**
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -78,5 +83,5 @@ I design and operate **data platforms** — from ingestion pipelines to AI-power
 ---
 
 <p align="center">
-  <sub>Data Architect · <a href="https://examroom.ai">ExamRoom</a> · <a href="https://github.com/calabi-ai/calabi-ce">calabi-ai/calabi-ce</a></sub>
+  <sub>Data Architect · <a href="https://examroom.ai">ExamRoom.AI Corp</a> · United States · <a href="https://github.com/calabi-ai/calabi-ce">calabi-ai/calabi-ce</a></sub>
 </p>
