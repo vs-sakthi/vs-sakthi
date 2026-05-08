@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Sakthivel+Vijayamoorti;Data+Architect+%40+ExamRoom.AI+Corp;10%2B+yrs+in+Data+Engineering;Airflow+%7C+dbt+%7C+Airbyte+%7C+Superset+%7C+AWS+EKS;Building+%40calabi-ai+%E2%80%94+Open+Source+Data+Platform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Sakthivel+Vijayamoorthi;Data+Architect+%40+ExamRoom.AI+Corp;14%2B+years+in+Data+Engineering;Airflow+%7C+dbt+%7C+Airbyte+%7C+Superset+%7C+AWS+EKS;Building+%40calabi-ai+—+Open+Source+Data+Platform" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://github.com/calabi-ai/calabi-ce">
     <img src="https://img.shields.io/badge/Calabi_CE-Open_Source-7C3AED?style=for-the-badge&logo=docker&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sakthivel-vijayamoorti">
+  <a href="https://www.linkedin.com/in/sakthiv">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=vs-sakthi&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
@@ -14,74 +14,70 @@
 
 ---
 
-## About me
+## 👤 About me
 
-Data Architect and Senior Data Engineer at **[ExamRoom.AI Corp](https://examroom.ai)** — the credentialing and assessment platform used by healthcare licensing bodies across North America.
+I'm a **Data Architect and Senior Data Engineer** at **ExamRoom.AI Corp** based in **Lake Mary, Florida**. I design, build, and operate full data stacks — from raw ingestion to governed, analytics-ready platforms.
 
-I design, build, and operate the full data stack: from ingestion pipelines and cloud infrastructure to analytics platforms and AI-powered intelligence. Over the years I've worked across the entire spectrum of data engineering — ETL, cloud data warehouses, real-time pipelines, data cataloguing, BI, ML platforms, and cost-efficient infrastructure on AWS EKS.
+Over 14 years I've worked across the entire spectrum: ETL pipelines, cloud data warehouses, real-time streaming, metadata cataloguing, BI dashboards, ML platforms, and data governance. Currently leading the data engineering function at ExamRoom.AI, architecting infrastructure that powers large-scale assessment and credentialing analytics.
 
-**Currently building:**
-- **[Calabi CE](https://github.com/calabi-ai/calabi-ce)** — open-source unified data platform. One `docker compose up` replaces OpenMetadata + Superset + Great Expectations. 4 commercial tiers, Helm-deployable, ELv2 licensed.
-- **DE Automation Suite** — 10 production Airflow 3 DAGs delivering daily intelligence: Airbyte sync audit, dbt lineage reports, credential strategy briefs, psychometrician summaries — Calabi-branded HTML via O365.
-- **Asgard Item Banking Console** — ExamIQ analytics dashboard tracking 500K+ assessment items across programs, topics, and exam forms.
-- **Calabi AI Orchestrator** — FastAPI + Ollama (Gemma 4, Qwen2.5) + MLflow — live triage, pipeline watch, platform pulse agents running on AWS EKS GPU nodes.
+I'm also the creator and lead maintainer of **[Calabi CE](https://github.com/calabi-ai/calabi-ce)** — an open-source unified data intelligence platform that replaces 5 separate tools (catalog, BI, quality, governance, AI) with a single `docker compose up`.
 
 ---
 
-## Stack
+## 🏢 Career
+
+| Period | Company | Role |
+|--------|---------|------|
+| **May 2024 – Present** | ExamRoom.AI Corp | Data Architect |
+| **Sep 2016 – Apr 2024** | Altimetrik | Senior Architect — Data Engineering & Analytics (7 yrs 8 mos) |
+| **Jun 2011 – Aug 2016** | Virtusa | Associate Consultant — ETL & Data Warehousing (5 yrs 3 mos) |
+
+> 🎓 B.E. Electronics & Communication Engineering — Anna University, Chennai (2007–2011)
+
+---
+
+## 🛠️ Stack
 
 **Orchestration & Transformation**
-
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow_3-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white)
-![IBM DataStage](https://img.shields.io/badge/IBM_DataStage-052FAD?style=flat-square&logo=ibm&logoColor=white)
+Apache Airflow 3 · dbt · Airbyte · IBM DataStage · Informatica
 
 **Analytics & Catalog**
-
-![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=white)
-![OpenMetadata](https://img.shields.io/badge/OpenMetadata-7C3AED?style=flat-square&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+Apache Superset · OpenMetadata · OpenSearch · Redshift
 
 **Cloud & Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+AWS · Kubernetes (EKS) · Helm · Docker · nginx
 
 **Databases & Warehouses**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+PostgreSQL · Amazon Redshift · MySQL · DB2 · Teradata · Netezza
 
 **ML & AI**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+Python · MLflow · FastAPI · Ollama · Gemma
 
 **Monitoring & Observability**
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+Grafana · Prometheus · CloudWatch
 
 ---
 
-## GitHub Stats
+## 🚀 Currently building
+
+| Project | What it is |
+|---------|-----------|
+| **[Calabi CE](https://github.com/calabi-ai/calabi-ce)** | Unified data platform — catalog + BI + governance in one Docker Compose |
+| **DE Automation Suite** | 10 production Airflow DAGs — Airbyte audits, daily briefs, psychometrician reports |
+| **Asgard Item Banking Console** | Superset dashboard for exam item quality, exposure & form analytics |
+| **Calabi AI Orchestrator** | FastAPI + Ollama + MLflow agentic platform for data intelligence |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vs-sakthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs-sakthi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vs-sakthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs-sakthi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Data Architect · <a href="https://examroom.ai">ExamRoom.AI Corp</a> · United States · <a href="https://github.com/calabi-ai/calabi-ce">calabi-ai/calabi-ce</a></sub>
+  <sub>Data Architect · ExamRoom.AI Corp · Lake Mary, Florida · <a href="https://github.com/calabi-ai/calabi-ce">calabi-ai/calabi-ce</a></sub>
 </p>
