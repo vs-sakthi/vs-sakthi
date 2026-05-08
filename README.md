@@ -105,8 +105,10 @@ Currently at **ExamRoom.AI Corp** (Lake Mary, Florida), architecting and operati
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vs-sakthi&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs-sakthi&layout=compact&theme=tokyo-night&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=vs-sakthi&theme=tokyo-night&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vs-sakthi&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
